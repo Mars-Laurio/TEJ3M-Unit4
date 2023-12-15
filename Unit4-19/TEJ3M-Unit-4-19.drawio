@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="t1QAMHBQt2Z4F_DE71VQ" name="Page-1">
-        <mxGraphModel dx="638" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="901" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -77,7 +77,7 @@
                     <mxGeometry x="40" y="485.75" width="70" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="293" value="Sum 1s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="230" y="396" width="70" height="30" as="geometry"/>
+                    <mxGeometry x="220" y="386" width="70" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="294" value="Sum 2s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
                     <mxGeometry x="436.5" y="310" width="70" height="30" as="geometry"/>
@@ -85,8 +85,11 @@
                 <mxCell id="297" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#18141D;rotation=-90;" vertex="1" parent="1">
                     <mxGeometry x="457" y="376" width="17" height="15.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="299" value="Cin 4s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-                    <mxGeometry x="474" y="368.75" width="70" height="30" as="geometry"/>
+                <mxCell id="299" value="Cout 2s (Cin 4s)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="368.75" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="304" value="Cout 1s (Cin 2s)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="185" y="440.25" width="140" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
